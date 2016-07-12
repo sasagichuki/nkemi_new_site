@@ -1,0 +1,17 @@
+title: 'Nkemi Consulting'
+author:
+  name: 'Caroline Mbui'
+  email: me@chaos.co.ke
+taxonomies:
+  - category
+  - tag
+metadata:
+  description: 'Nkemi is a Brand Consulting Agency'
+  Other: Values
+summary:
+  enabled: true
+  format: short
+  size: 300
+  delimiter: '==='
+blog:
+  route: /blog

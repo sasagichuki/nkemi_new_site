@@ -6,7 +6,7 @@ menu: Mambo Bad
 
 ![](Nkemi_kid.jpg)
 
-**BRAND STRATEGY AND PLANNING**
+**I have changed this part**
 
 We work with you to define your brand and how it will be perceived in the market place. We will work on both the tangible and intangible qualities of the brand through: 1. developing your visual and verbal identity 2. developing your brand positioning including differentiators, core drivers, values, personality, essence, expression 3. writing your positioning statement and key consumer insight.
 

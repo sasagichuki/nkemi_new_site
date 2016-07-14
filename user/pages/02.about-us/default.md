@@ -1,7 +1,7 @@
 ---
 title: 'About Us'
 published: true
-menu: Mambo Bad
+menu: 'Mambo Bad'
 ---
 
 ![](Nkemi_kid.jpg)
@@ -10,7 +10,7 @@ menu: Mambo Bad
 
 We work with you to define your brand and how it will be perceived in the market place. We will work on both the tangible and intangible qualities of the brand through: 1. developing your visual and verbal identity 2. developing your brand positioning including differentiators, core drivers, values, personality, essence, expression 3. writing your positioning statement and key consumer insight.
 
-**MARKETING STRATEGY AND PLANNING**
+**This is another local Change**
 
 Our goal for marketing is to drive sales and maintain competitive advantage through well thought out programmes that connect and engage with clients' markets. We use a very detailed process of insight gathering, consumer definition and touch points analysis to deliver strategies that cut across disciplines like Advertising, PR, Digital, Experiential and Promotions.
 
